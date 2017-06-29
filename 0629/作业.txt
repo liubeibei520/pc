@@ -1,0 +1,11 @@
+git分布式版本管理工具
+
+git init 初始化git仓库
+
+git add filename  把工作区的文件添加到暂存区
+
+git status  查看版本库的状态
+
+git commit -m "instructions"把暂存区的文件添加到新版本库中
+
+git diff  查看工作区修改的内容
